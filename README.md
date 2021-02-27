@@ -1,2 +1,2 @@
-# whatsappSMSApi
-A Whatsapp SMS Api for sending bulk sms to users
+# whatsappSMSBot
+A Whatsapp SMS Bot for sending bulk sms to users
