@@ -1,0 +1,27 @@
+{
+  "name": "whatsappsmsbot",
+  "version": "1.0.0",
+  "description": "A Node app to send bulk sms on WhatsApp",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbajoshuac/whatsappSMSBot.git"
+  },
+  "keywords": [
+    "WhatsApp",
+    "BulkSMS"
+  ],
+  "author": "Joshua Mba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbajoshuac/whatsappSMSBot/issues"
+  },
+  "homepage": "https://github.com/mbajoshuac/whatsappSMSBot#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "wbm": "^1.1.13"
+  }
+}
